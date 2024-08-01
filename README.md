@@ -1,3 +1,6 @@
+X.com: https://x.com/GM_interchain
+
+
 # Green Monster Energy (GM) Token
 
 **Contract Address:** [0xcC0616C82e679cC322F7F568BC8EBa96c4212FB2](https://interchain.axelar.dev/fantom/0xcC0616C82e679cC322F7F568BC8EBa96c4212FB2)
